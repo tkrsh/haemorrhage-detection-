@@ -6,3 +6,5 @@ Diagnosis requires an urgent procedure. When a patient shows acute neurological 
 
 
 In this challenge I had to predict whether a hemorrhage exists in a given image, and what type it is.
+
+Still under modelling process model is yet not accurate enough trained on 1% of the provided dataset using  RESNET-18
